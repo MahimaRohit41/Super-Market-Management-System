@@ -451,8 +451,8 @@ public:
     string mname;
     Manager()
     {
-        Id = 201901118;      
-        mname = "anjali";      
+        Id = 201901091;      
+        mname = "mahima";      
             for(int i=0;i<13;i++)
             {
                hash_item[i]=NULL;
